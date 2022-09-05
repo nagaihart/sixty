@@ -1,6 +1,6 @@
-# sixty
+## sixty ones
 
-[シックスティワンズのための四国旅](./blog.org)
+# [シックスティワンズのための四国旅](./blog.org)
 
 ## by nagaihart@gmail.com
 
